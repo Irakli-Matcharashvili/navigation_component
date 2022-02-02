@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">navigation_component</string>
+    <string name="go_to_next_fragment_button">go to next fragment button</string>
+    <string name="go_to_second_fragment_button">go to second fragment button</string>
+    <string name="go_to_first_fragment">go to first fragment</string>
+    <string name="go_to_third_fragment">go to third fragment</string>
+
+</resources>
